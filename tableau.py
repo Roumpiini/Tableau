@@ -1,5 +1,5 @@
 import sys
-sys.path.append("./.venv/lib/python3.9/site-packages")
+# sys.path.append("./.venv/lib/python3.9/site-packages")
 import os
 from dotenv import load_dotenv
 dotenv_path = os.path.join(os.path.dirname(__file__), '.env')
