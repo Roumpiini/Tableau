@@ -1,7 +1,7 @@
 import unittest
 from unittest.mock import patch, MagicMock
 import sys
-sys.path.append("./.venv/lib/python3.9/site-packages")
+# sys.path.append("./.venv/lib/python3.9/site-packages")
 import base64
 import requests
 import xml.etree.ElementTree as ET
